@@ -1,0 +1,26 @@
+#compile sources#
+
+*.com 
+*.class
+*.dll 
+*.exx 
+*.xlsx
+
+#packages# 
+*.zip 
+*.rar 
+*.tar 
+*.7zip 
+*.dmg 
+*.iso 
+*.json
+*.md 
+*.yml 
+*.jquery.json
+
+#Images sources# 
+*.jpeg 
+*.jpg 
+*.png 
+*.ico
+*.mp4
