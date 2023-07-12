@@ -19,8 +19,5 @@
 *.jquery.json
 
 #Images sources# 
-*.jpeg 
-*.jpg 
-*.png 
 *.ico
 *.mp4
